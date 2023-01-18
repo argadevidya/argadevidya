@@ -1,20 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Dipak Argade</h1>
-<h3 align="center"> Mechanical Engineer with 10+ years of competitive experience in Data driven Machine Design, Analysis, Optimization, Data Science-Machine Learning, Failure prediction, Root Cause Analysis</h3>
-<img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/aT564S32DojlSN369u/giphy.gif'
+<h1 align="center">Hi 👋, I'm Vidya Argade</h1>
+<h3 align="center"> Software Engineer with 5+ years of competitive experience in software development</h3>
+<img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif'
 
      
-👨‍💻 Review my Machine Learning projects at [Click here](https://github.com/stars/dipakml/lists/machine-learning-projects)
+👨‍💻 Review my Machine Learning projects at [Click here]()
      
-👨‍💻 Mathematical Optimization using Python, Pyomo & Gurobi optimization [Click here](https://github.com/stars/dipakml/lists/mathematical-optimization)
-
 🌱 I’m currently working on **Developing end to end Machine learning projects**
 
 💬 Ask me about **Data Science & Machine Learning**
 
-📫 You can reach me at my personal Email ID: **argadedipak@gmail.com**
+📫 You can reach me at my personal Email ID: **argadevidyad@gmail.com**
 
-📄 Know about my experience & connect me via [LinkedIn](https://www.linkedin.com/in/dipak-argade-a9b03834/)
+📄 Know about my experience & connect me via [LinkedIn](https://www.linkedin.com/in//)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
