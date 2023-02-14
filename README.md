@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Vidya Argade</h1>
-<h3 align="center"> Software Engineer with 5+ years of competitive experience in software development</h3>
+<h3 align="center"> Software Engineer with 3+ years of competitive experience in software development</h3>
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif'
 
      
-👨‍💻 Review my Machine Learning projects at [Click here]()
+👨‍💻 Review my Robotic Process Automation projects at [Click here]()
      
-🌱 I’m currently working on **Developing end to end Machine learning projects**
+🌱 I’m currently working on **Developing end to end RPA projects**
 
-💬 Ask me about **Data Science & Machine Learning**
+💬 Ask me about **Robotic Process Automation**
 
 📫 You can reach me at my personal Email ID: **argadevidyad@gmail.com**
 
