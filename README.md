@@ -23,10 +23,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<img src="https://user-images.githubusercontent.com/122998236/220589374-05f63123-ef29-4942-b5a2-11e2e0ed121d.png" alt="flask" width="40" height="40"/> </a> 
-<img src="https://user-images.githubusercontent.com/122998236/220589403-2198d1e6-6c9f-4c58-ae64-3cbfab1e61e3.jpg" alt="gcp" width="40" height="40"/> </a>
-<img src="https://user-images.githubusercontent.com/122998236/220589425-35f34b92-1e45-48ba-adbe-2b2801f2d9de.png" alt="kubernetes" width="40" height="40"/> 
-<img src="https://user-images.githubusercontent.com/122998236/220589685-baf4be5c-0608-41e2-b5ed-7acf3cdaf171.png" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> </p>
+<img src="https://user-images.githubusercontent.com/122998236/220589374-05f63123-ef29-4942-b5a2-11e2e0ed121d.png" alt="flask" width="50" height="40"/> </a> 
+<img src="https://user-images.githubusercontent.com/122998236/220589403-2198d1e6-6c9f-4c58-ae64-3cbfab1e61e3.jpg" alt="gcp" width="50" height="40"/> </a>
+<img src="https://user-images.githubusercontent.com/122998236/220589425-35f34b92-1e45-48ba-adbe-2b2801f2d9de.png" alt="kubernetes" width="100" height="40"/> 
+<img src="https://user-images.githubusercontent.com/122998236/220589685-baf4be5c-0608-41e2-b5ed-7acf3cdaf171.png" alt="pandas" width="80" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/>  </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakml&show_icons=true&locale=en&layout=compact" alt="argadevidya" /></p>
