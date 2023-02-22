@@ -21,10 +21,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![1_XEzukXOEUudcXkyrouu3vw](https://user-images.githubusercontent.com/122998236/220618636-bfd97527-2e3e-4f26-8ea9-d5aa172d1920.jpeg)
-
 <p align="left"> 
-<img src="https://user-images.githubusercontent.com/122998236/220618912-16efd4a0-cb57-440c-a16e-71b399acdf7f.png" alt="python" width="50" height="40"/></p>
+<img src="https://user-images.githubusercontent.com/122998236/220618912-16efd4a0-cb57-440c-a16e-71b399acdf7f.png" alt="python" width="50" height="40"/>
 <img src="https://user-images.githubusercontent.com/122998236/220618636-bfd97527-2e3e-4f26-8ea9-d5aa172d1920.jpeg" alt="python" width="50" height="40"/>
 <img src="https://user-images.githubusercontent.com/122998236/220589374-05f63123-ef29-4942-b5a2-11e2e0ed121d.png" alt="flask" width="50" height="40"/> </a> 
 <img src="https://user-images.githubusercontent.com/122998236/220589403-2198d1e6-6c9f-4c58-ae64-3cbfab1e61e3.jpg" alt="gcp" width="50" height="40"/> </a>
