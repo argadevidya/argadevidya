@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Vidya Argade</h1>
-<h3 align="center"> Software Engineer with 3+ years of competitive experience in software development</h3>
+<h3 align="center"> Software Engineer with 2+ years of competitive experience in software development</h3>
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif'
 
      
 👨‍💻 Review my Robotic Process Automation projects at [Click here](https://github.com/argadevidya?tab=repositories)
+👨‍💻 Review my python programs at [Click here](https://github.com/argadevidya?tab=repositories)
+👨‍💻 Review my HTML-CSS one page website project at [Click here](https://github.com/argadevidya?tab=repositories)
      
 🌱 I’m currently working on **Developing end to end RPA projects**
 
