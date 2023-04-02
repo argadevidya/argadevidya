@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif'
 
      
-👨‍💻 Review my Robotic Process Automation projects at [Click here]([https://github.com/argadevidya?tab=repositories](https://github.com/stars/argadevidya/lists/rpa-projects))<br>
-👨‍💻 Review my python programs at [Click here]([https://github.com/argadevidya?tab=repositories](https://github.com/stars/argadevidya/lists/python-projects))<br>
-👨‍💻 Review my HTML-CSS one page website project at [Click here](https://github.com/stars/argadevidya/lists/c-net-projects)<br>
+👨‍💻 Review my Robotic Process Automation projects at [Click here](https://github.com/stars/argadevidya/lists/rpa-projects)<br>
+👨‍💻 Review my Python projects at [Click here](https://github.com/stars/argadevidya/lists/python-projects)<br>
+👨‍💻 Review my C#.NET projects at [Click here](https://github.com/stars/argadevidya/lists/c-net-projects)<br>
      
 🌱 I’m currently working on **Developing end to end RPA projects**
 
