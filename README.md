@@ -5,8 +5,9 @@
 
      
 👨‍💻 Review my Robotic Process Automation projects at [Click here](https://github.com/stars/argadevidya/lists/rpa-projects)<br>
-👨‍💻 Review my Python projects at [Click here](https://github.com/stars/argadevidya/lists/python-projects)<br>
-👨‍💻 Review my C#.NET projects at [Click here](https://github.com/stars/argadevidya/lists/c-net-projects)<br>
+👨‍💻 Review my Python projects(Python,Django,Streamlit) at [Click here](https://github.com/stars/argadevidya/lists/python-projects)<br>
+👨‍💻 Review my Python-Tkinter projects at [Click here](https://github.com/stars/argadevidya/lists/python-tkinter-projects)<br>
+👨‍💻 Review my React JS projects at [Click here](https://github.com/stars/argadevidya/lists/react-js-projects)<br>
      
 🌱 I’m currently working on **Developing end to end RPA projects**
 
